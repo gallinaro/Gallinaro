@@ -11,7 +11,7 @@
     <div class="copyright">
         <p>
             {{ .Site.Data.footer.copyright | safeHTML }}
-            &nbsp;
+           
             {{ range $link := .Site.Data.footer.links }}
                 <a href="{{ $link.url }}" {{ if $link.new_window }}target="_blank" rel="noopener"
                 {{ end }}>{{ $link.text }}</a>.
