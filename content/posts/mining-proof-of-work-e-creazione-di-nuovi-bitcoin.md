@@ -307,6 +307,10 @@ subtitle: >-
   In questo articolo abbiamo spiegato brevemente il processo che consente di
   validare le transazioni emesse, costituendo il pilastro alla base
   dell’affidabilità di Bitcoin ed il meccanismo di creazione di nuove monete.
+excerpt: >-
+  Il mining è il processo che consente di validare le transazione emesse,
+  costituendo il pilastro alla base dell'affidabilità di Bitcoin ed il
+  meccanismo di creazione di nuove monete
 post_button_label: Leggi
 date: 2020-01-25T21:11:27.862Z
 layout: page
