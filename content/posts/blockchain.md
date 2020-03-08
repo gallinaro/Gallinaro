@@ -1,5 +1,6 @@
 ---
 title: Blockchain
+categories: [Bitcoin]
 subtitle: >-
   Il paradigma tradizionale delle transazioni prevede che nello scambio di asset
   tra due utenti si faccia riferimento ad un’autorità centrale, la trusted third
