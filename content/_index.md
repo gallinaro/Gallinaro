@@ -2,10 +2,9 @@
 title: Home
 sections:
   - type: intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: >-
+      Aspettarsi grosse ricompense per piccoli investimenti significa
+      incoraggiare un comportamento stupido.
     actions:
       - label: Get Started
         url: /generic
@@ -14,14 +13,61 @@ sections:
     title: Reflex
     img_path: images/pic01.jpg
     component: intro.html
+  - type: spotlight
+    content: ''
+    actions:
+      - label: Details
+        url: /generic
+        is_scrolly: false
+        is_primary: false
+    title: Duis torquent
+    subtitle: |-
+      Rutrum facilisis. Class aptent taciti sociosqu  
+      litora torquent et conubia etiam nostra.
+    component: spotlight.html
   - type: features
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+      <script>
+
+         if (typeof(stockdio_events) == "undefined") {
+
+      \    stockdio_events = true;
+
+
+      \    var stockdio_eventMethod = window.addEventListener ?
+      "addEventListener" : "attachEvent";
+
+
+      \    var stockdio_eventer = window\[stockdio_eventMethod];
+
+
+      \    var stockdio_messageEvent = stockdio_eventMethod == "attachEvent" ?
+      "onmessage" : "message";
+
+
+      \    stockdio_eventer(stockdio_messageEvent, function (e) {
+
+
+      \    if (typeof(e.data) != "undefined" && typeof(e.data.method) !=
+      "undefined") {
+
+
+      \    eval(e.data.method);
+
+
+      \    }
+
+
+      \    },false);
+
+         }
+
+      </script>
+
+
+      <iframe id='st_2a3cf2a3a3404f71893fc6063891dd7a' frameBorder='0'
+      scrolling='no' width='100%' height='100%'
+      src='https://api.stockdio.com/visualization/financial/charts/v1/Ticker?app-key=796FC8FA75684B0990FADB79432CAC11&stockExchange=CRYPTO&symbols=BTC;ETH;XRP;BCH;LTC;&culture=Italian-Italy&motif=Material&palette=Aurora&layoutType=14&googleFont=true&backgroundColor=f7f7f7&labelsColor=2b2d30&onload=st_2a3cf2a3a3404f71893fc6063891dd7a'></iframe>
     actions:
       - label: Details
         url: /generic
@@ -43,36 +89,6 @@ sections:
       - title: Tempus
         icon: fa-briefcase
     component: features.html
-  - type: spotlight
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Duis torquent
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    component: spotlight.html
-  - type: mission
-    content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Amet ullamcorper
-    component: mission.html
 menu:
   main:
     name: Home
