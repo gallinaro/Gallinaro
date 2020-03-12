@@ -1,5 +1,5 @@
 ---
-title: 'Approfondimento chiavi ed indirizzi'
+title: Approfondimento chiavi ed indirizzi
 subtitle: >-
   Come detto nell’articolo precedente ogni transazione bitcoin richiede una
   chiave pubblica ed una privata, assimilabili relativamente ad un IBAN ed ad un
@@ -214,6 +214,7 @@ excerpt: >-
   unidirezionale, viene creata la chiave pubblica. Sulla chiave pubblica viene
   utilizzata una funzione di hash crittografica unidirezionale per creare
   l’indirizzo bitcoin.
+img_path: ''
 post_button_label: Leggi
 date: 2019-11-28T17:00:16.980Z
 layout: page
