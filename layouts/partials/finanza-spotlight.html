@@ -5,7 +5,7 @@
             <h2>{{ .section.title }}</h2>
             {{ partial "markdownify-block" .section.subtitle }}
         </header>
-        {{ range $post := ((.Site.GetPage "section" "/articoli-economia").Pages).ByDate.Reverse }}
+        {{ range $post := ((.Site.GetPage "section" "/articoli-finanza").Pages).ByDate.Reverse }}
             <section class="spotlight">
                 <span class="image"><img src="{{ $post.Params.img_path | relURL }}" alt="" /></span>
                 <div class="content">
