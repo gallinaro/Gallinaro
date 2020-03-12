@@ -1,5 +1,5 @@
 ---
-title: 'approfondimento chiavi ed indirizzi'
+title: 'Approfondimento chiavi ed indirizzi'
 subtitle: >-
   Come detto nell’articolo precedente ogni transazione bitcoin richiede una
   chiave pubblica ed una privata, assimilabili relativamente ad un IBAN ed ad un
