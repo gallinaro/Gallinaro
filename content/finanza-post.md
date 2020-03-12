@@ -1,15 +1,15 @@
 ---
-title: Economia post
+title: Finanza post
 sections:     
   - type: spotlight
     content: ''
     actions: []
-    title: Articoli economia
+    title: Articoli finanza
     subtitle: ''
     component: finanza-spotlight.html
 menu:
   main:
-    name: Economia
+    name: Finanza
     weight: 
 layout: home
 ---
