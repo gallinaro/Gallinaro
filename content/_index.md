@@ -1,7 +1,15 @@
 ---
 title: Home page
 sections:
-  - actions: []
+  - actions:
+      - is_scrolly: false
+        is_primary: true
+        label: Bitcoin
+        url: /bitcoin-post
+      - is_scrolly: false
+        is_primary: true
+        label: Finanza
+        url: /finanza-post
     component: intro.html
     content: >-
       Aspettarsi grosse ricompense per piccoli investimenti significa
@@ -9,18 +17,6 @@ sections:
     img_path: /images/img_6khgjhgk285.jpg
     title: Gallinaro
     type: intro
-  - type: features
-    title: Categorie
-    component: features.html
-    actions:
-      - is_scrolly: false
-        is_primary: true
-        label: Bitcoin
-        url: /bitcoin-post
-      - is_scrolly: false
-        is_primary: false
-        label: Finanza
-        url: /finanza-post
   - actions: []
     component: spotlight.html
     content: ''
