@@ -8,8 +8,8 @@ subtitle: >-
   crisi dei cambi. La crisi di oggi è un po’ tutto questo messo assieme.
 
 
-  Di crisi economiche ce ne sono sempre, una dietro l’altra (FMI 2020). Ma
-  questa volta è diversa. Ed è diversa per due motivi principali.
+  Di crisi economiche ce ne sono sempre, una dietro l’altra. Ma questa volta è
+  diversa. Ed è diversa per due motivi principali.
 
 
   Lo shock di fondo ha colpito contemporaneamente tutte le nazioni del G7 e la
