@@ -134,7 +134,11 @@ subtitle: >-
   spendere anche se non lavorano. Un vantaggio collaterale di questo sarebbe di
   sovvenzionare il tipo di auto-quarantena che è necessario per appiattire la
   curva epidemiologica.
-excerpt: prova per articolo finanza
+excerpt: >-
+  La crisi economica del Covid-19 è diversa. Ha colpito tutti i giganti
+  economici contemporaneamente: le nazioni del G7 e la Cina. Non è una crisi del
+  credito, né una crisi bancaria, né una crisi improvvisa; né una crisi dei
+  cambi. La crisi di oggi è un po’ tutto questo messo assieme.
 post_button_label: Leggi
 date: 2020-03-12T17:33:26.112Z
 layout: page
