@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     component: bitcoin-spotlight.html
   - type: features
-    title: Ipsum malesuada
+    title: Andamenti 
     component: features.html
     subtitle: >-
       <script>
