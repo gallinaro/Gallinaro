@@ -17,6 +17,13 @@ sections:
     img_path: /images/img_6khgjhgk285.jpg
     title: Gallinaro
     type: intro
+  - type: features
+    title: Emergenza Covid-19
+    component: features.html
+    content: >-
+      <iframe
+      src="<https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6>"
+      width="300" height="300"></iframe>
   - actions: []
     component: spotlight.html
     content: ''
