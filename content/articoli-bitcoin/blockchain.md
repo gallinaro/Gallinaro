@@ -169,7 +169,7 @@ excerpt: >-
   dopo che la rete stessa ha approvato e verificato la correttezza delle
   informazioni, di conseguenza ciascun blocco è contemporaneamente archivio e
   controllore di tutte le transazioni.
-
+img_path: ''
 post_button_label: Leggi
 date: 2019-07-30T22:00:00.000Z
 layout: page
