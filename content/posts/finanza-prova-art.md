@@ -62,7 +62,7 @@ subtitle: >-
   dei soggiorni in hotel.
 
 
-  ![]()
+  ![](/images/crisi-covid-19.png)
 
 
   Dove questi tre tipi di shock colpiscono l’economia?
