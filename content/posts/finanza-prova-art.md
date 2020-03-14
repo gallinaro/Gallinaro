@@ -20,8 +20,8 @@ subtitle: >-
   COVID-19 non è iniziata (economicamente) in una o due nazioni e si è poi
   diffusa in molte altre, lo shock medico, misurato dal numero di nuovi casi, è
   iniziato in Cina alla fine del 2019. Ma erano solo pochi giorni prima che casi
-  si manifestassero in alcune nazioni del G7. Al 31 gennaio 2020, ogni nazione
-  del G7 aveva almeno un caso.
+  si manifestassero anche in alcune nazioni del G7. Al 31 gennaio 2020, ogni
+  nazione del G7 aveva almeno un caso.
 
 
   Lo shock medico sta colpendo l'economia in più siti.
