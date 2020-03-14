@@ -139,7 +139,7 @@ excerpt: >-
   economici contemporaneamente: le nazioni del G7 e la Cina. Non è una crisi del
   credito, né una crisi bancaria, né una crisi improvvisa; né una crisi dei
   cambi. La crisi di oggi è un po’ tutto questo messo assieme.
-img_path: 
+img_path: ''
 post_button_label: Leggi
 date: 2020-03-12T17:33:26.112Z
 layout: page
