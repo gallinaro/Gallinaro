@@ -24,7 +24,7 @@ subtitle: >-
   nazione del G7 aveva almeno un caso.
 
 
-  Lo shock medico sta colpendo l'economia in più siti.
+  Lo shock medico sta colpendo l'economia in più punti.
 
 
   > Le crisi economiche più studiate hanno origine da un unico punto di
