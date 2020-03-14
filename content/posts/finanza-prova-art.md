@@ -34,7 +34,7 @@ subtitle: >-
   via. Questa volta non è così.
 
 
-  **Tre tipo di shock economici**
+  **Tre tipi di shock economici**
 
 
   Semplifichiamo e parliamo della natura degli shock economici catenati dal
