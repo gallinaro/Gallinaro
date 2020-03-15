@@ -67,6 +67,7 @@ subtitle: >-
   negoziazioni.
 
 
+  ![](/images/1x-1.png)
 
 
   Galai afferma di non aspettarsi che il VIX scenda finché non avremo un quadro
