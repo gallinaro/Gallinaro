@@ -6,51 +6,43 @@ subtitle: >-
   Fed.
 
 
-  l’indice VIX misura la volatilità dei movimenti sull’indice S&P 500 (indice
+  > L’indice VIX misura la volatilità dei movimenti sull’indice S&P 500 (indice
   che racchiude un paniere azionario formato dalle 500 aziende statunitensi a
-  maggiore capitalizzazione.).
+  maggiore capitalizzazione.). E’ l’espressione della variabilità attesa dagli
+  operatori circa il principale indice azionario USA.
 
+  >
 
-  E’ l’espressione della variabilità attesa dagli operatori circa il principale
-  indice azionario USA.
+  > Più il VIX è alto, tanto maggiore sarà la percezione del rischio presente
+  sul mercato e per questo è stato nominato indice della “paura” Tuttavia è bene
+  tenere a mente che l’indice della paura non necessariamente descrive il timore
+  di un calo delle Borse bensì è da intendere come volatilità in entrambe le
+  direzioni. Un aumento del VIX significa che gli operatori si aspettano che i
+  mercati si muovano maggiormente sia al rialzo che al ribasso.
 
+  >
 
-  Più il VIX è alto, tanto maggiore sarà la percezione del rischio presente sul
-  mercato e per questo è stato nominato indice della “paura”
-
-
-  Tuttavia è bene tenere a mente che l’indice della paura non necessariamente
-  descrive il timore di un calo delle Borse bensì è da intendere come volatilità
-  in entrambe le direzioni.
-
-
-  Un aumento del VIX significa che gli operatori si aspettano che i mercati si
-  muovano maggiormente sia al rialzo che al ribasso.
-
-
-  Gli operatori dei mercati finanziari osservano il VIX facendo attenzione in
+  > Gli operatori dei mercati finanziari osservano il VIX facendo attenzione in
   particolare alla soglia dei 25-30 punti. Questa è tradizionalmente la soglia
   critica che demarca una condizione di bassa volatilità (ottimismo sui mercati)
   da uno scenario di alta volatilità (tensione sui mercati)
 
 
   L’ideatore dell’indice ha affermato che la paura che incombe sui mercati in
-  questo momento è molto più grande della paura affrontata nel 2008
+  questo momento è molto più grande della paura affrontata nel 2008. Il
+  professore Dan Galai, colui che insieme a Menachem Brenner ha creato il primo
+  indice di volatilità, ha detto a Bloomberg che:
 
 
-  Il professore Dan Galai, colui che insieme a Menachem Brenner ha creato il
-  primo indice di volatilità, ha detto a Bloomberg che:
-
-
-  “Il livello di incertezza è persino superiore a quello che abbiamo visto nel
+  > “Il livello di incertezza è persino superiore a quello che abbiamo visto nel
   2008 immediatamente dopo il crollo di Lehman Brothers”
 
 
   Galai poi continua dicendo:
 
 
-  “Se si guarda al 2008, ha avuto un picco e poi nel giro di un giorno o 2 stava
-  scendendo molto velocemente. Ad oggi la situazione è diversa, è andato
+  > “Se si guarda al 2008, ha avuto un picco e poi nel giro di un giorno o 2
+  stava scendendo molto velocemente. Ad oggi la situazione è diversa, è andato
   costantemente a salire invece che scendere. E’ più violento e persistente”
 
 
