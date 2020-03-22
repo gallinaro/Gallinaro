@@ -71,6 +71,7 @@ subtitle: >-
   nessuno ha una visione chiara ed una lucida previsione della durata e
   dell’impatto di questa epidemia. Quello che vediamo è che il VIX rappresenta
   davvero il riflesso dell’enorme incertezza attuale.
+img_path: ''  
 post_button_label: Leggi
 date: 2020-03-15T19:31:29.964Z
 layout: page
