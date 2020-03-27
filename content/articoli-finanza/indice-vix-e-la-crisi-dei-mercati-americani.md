@@ -71,6 +71,10 @@ subtitle: >-
   nessuno ha una visione chiara ed una lucida previsione della durata e
   dell’impatto di questa epidemia. Quello che vediamo è che il VIX rappresenta
   davvero il riflesso dell’enorme incertezza attuale.
+excerpt: >-
+  Dopo il crollo di settimana scorsa l’indice VIX è schizzato sopra i 60; questo
+  è un indizio che il mercato è nel caos ed ha bisogno di aiuto da parte della
+  Fed.  
 img_path: ''  
 post_button_label: Leggi
 date: 2020-03-15T19:31:29.964Z
