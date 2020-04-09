@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gallinaro-4f379.netlify.com
+Token: 601150706448533b9ebd18be0f9c0236e1187b512b3827f4174b1c2a6d3c16e8
