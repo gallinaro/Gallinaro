@@ -1,9 +1,6 @@
 enabled: true
 title: Mi trovi qui
-social_content: '<iframe width="540" height="305"
-  src="https://e48e0ec0.sibforms.com/serve/MUIEAO3rQgmpnpI_iPPGrloTl7fEoYSjpOPIo5Vji99OGInG5UGn2uTICKMVw4N-O-wOA7c3eH7NeI0FFurBYfQfKTUCuKeBfL36j8DB8atF-B-6MaPrO1yurIWmy23Dj_9dFwjmovfiJJ7FmeUxnv_TBOlRj9rhaMnlyWX2UWsVi2I5mLVJYGPvSHzvquNcf0D0aZz1W74vhPYY"
-  frameborder="0" scrolling="auto" allowfullscreen style="display:
-  block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>'
+social_content: ""
 social_links:
   - icon: fa-twitter
     link_url: https://twitter.com/gally_95
