@@ -4,12 +4,12 @@ sections:
   - type: spotlight
     content: ''
     actions: []
-    title: Articoli finanza
+    title: Articoli economia
     subtitle: ''
     component: finanza-spotlight.html
 menu:
   main:
-    name: Finanza
+    name: Economia
     weight: 
 layout: home
 ---
