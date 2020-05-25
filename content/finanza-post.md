@@ -1,5 +1,5 @@
 ---
-title: Finanza post
+title: Economia post
 sections:     
   - type: spotlight
     content: ''
