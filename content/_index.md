@@ -1,7 +1,11 @@
 ---
 title: Home page
 sections:
-  - actions: []
+  - actions:
+      - is_scrolly: false
+        is_primary: false
+        label: Bitcoin
+        url: /bitcoin-post
     component: intro.html
     content: Aspettarsi grosse ricompense per piccoli investimenti significa
       incoraggiare un comportamento stupido.
