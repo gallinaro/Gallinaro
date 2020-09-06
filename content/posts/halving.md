@@ -52,6 +52,7 @@ subtitle: >-
   L’ipotesi del modello è che la scarsità, misurata come rapporto SF, guidi direttamente il valore.
 
 
+  ![](/images/stockto-flow.png)
 
 
   [Clicca qui per vedere il grafico live](https://digitalik.net/btc/#)
