@@ -58,7 +58,7 @@ subtitle: >-
   Nel grafico sopra, il prezzo è sovrapposto alla linea del rapporto stock to flow. Possiamo vedere che il prezzo ha continuato a seguire il flusso di stock di Bitcoin nel tempo. La teoria quindi, suggerisce che possiamo proiettare dove il prezzo potrebbe andare osservando la linea prevista dal modello, che può essere calcolato poiché conosciamo il programma di mining futuro del BTC. I punti colorati mostrano il numero di giorni fino al prossimo evento di halving (che come abbiamo già detto rende il rapporto stock to flow più alto, quindi in teoria il prezzo dovrebbe aumentare) La linea stock to flow su questo grafico incorpora una media di 365 giorni nel modello per appianare i cambiamenti causati nel mercato dagli eventi di halving. 
 
 
-  Bitcoin è il primo bene digitale scarso che il mondo abbia mai conosciuto, è scarso come l’argento e l’oro e può essere inviato attraverso Internet, radio, satellite ecc. Sicuramente questa scarsità digitale ha valore. Ma quanto? In questo articolo ho quantificato la scarsità usando stock-to-flow e utilizzo stock-to-flow per modellare il valore del bitcoin. Esiste una relazione statisticamente significativa tra stock-to-flow e la capitalizzazione di mercato. La probabilità che la relazione tra stock-to-flow e valore di mercato sia casuale è vicina allo zero.                                    I seguenti fatti aggiungono fiducia al modello:
+  Bitcoin è il primo bene digitale scarso che il mondo abbia mai conosciuto, è scarso come l’argento e l’oro e può essere inviato attraverso Internet, radio, satellite ecc. Sicuramente questa scarsità digitale ha valore. Ma quanto? In questo articolo si è introdotta la scarsità usando stock-to-flow per modellare il valore del bitcoin. Esiste una relazione statisticamente significativa tra stock-to-flow e la capitalizzazione di mercato. La probabilità che la relazione tra stock-to-flow e valore di mercato sia casuale è vicina allo zero.                                                                      I seguenti fatti aggiungono fiducia al modello:
 
 
   * oro e argento, che hanno mercati totalmente diversi, sono in linea con i valori di bitcoin secondo il modello SF.
@@ -67,6 +67,15 @@ subtitle: >-
 
 
   Il modello prevede una capitalizzazione di mercato del bitcoin di 1000 miliardi di dollari dopo l’halving a maggio 2020, che si traduce in un prezzo del bitcoin di $ 55.000.(i calcoli sulla determinazione del modello non vengono trattati in quest articolo in quanto non è quello scopo dell’articolo)
+excerpt: Bitcoin è il primo bene digitale scarso che il mondo abbia mai
+  conosciuto, è scarso come l’argento e l’oro e può essere inviato attraverso
+  Internet, radio, satellite ecc. Sicuramente questa scarsità digitale ha
+  valore. Ma quanto? In questo articolo si è introdotta la scarsità usando
+  stock-to-flow per modellare il valore del bitcoin. Esiste una relazione
+  statisticamente significativa tra stock-to-flow e la capitalizzazione di
+  mercato. La probabilità che la relazione tra stock-to-flow e valore di mercato
+  sia casuale è vicina allo zero.
+post_button_label: Leggi
 date: 2020-09-06T09:51:17.818Z
 layout: page
 ---
