@@ -73,11 +73,7 @@ subtitle: >-
 excerpt: Bitcoin è il primo bene digitale scarso che il mondo abbia mai
   conosciuto, è scarso come l’argento e l’oro e può essere inviato attraverso
   Internet, radio, satellite ecc. Sicuramente questa scarsità digitale ha
-  valore. Ma quanto? In questo articolo si è introdotta la scarsità usando
-  stock-to-flow per modellare il valore del bitcoin. Esiste una relazione
-  statisticamente significativa tra stock-to-flow e la capitalizzazione di
-  mercato. La probabilità che la relazione tra stock-to-flow e valore di mercato
-  sia casuale è vicina allo zero.
+  valore. Ma quanto?
 post_button_label: Leggi
 date: 2020-09-06T09:51:17.818Z
 layout: page
