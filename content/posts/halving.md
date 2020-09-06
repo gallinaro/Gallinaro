@@ -40,7 +40,7 @@ subtitle: >-
   Stock e flow (produzione annuale) per differenti metalli a confronto con le relative capitalizzazioni di mercato. L’oro ha il valore più alto, SF 62: ci vogliono 62 anni di produzione aurifera per ottenere l’attuale stock. L’argento è secondo con SF 22. Il fatto di avere SF alto li rende entrambi beni monetari. Il palladio, il platino e tutte le altre materie prime hanno SF a malapena superiori a 1. Lo stock esistente è generalmente uguale o inferiore alla produzione annuale, rendendo quest'ultima un fattore molto importante. È quasi impossibile per le materie prime ottenere uno SF più elevato, perché non appena qualcuno le accumula, i prezzi aumentano, la produzione aumenta e il prezzo scende di nuovo. È molto difficile sfuggire a questa trappola. Bitcoin ha attualmente uno stock di 17,5 milioni di monete e un’offerta di 0,7 milioni monete/anno, quindi uno SF 25. Questo colloca il Bitcoin nella categoria dei beni monetari come oro ed argento. L’offerta di bitcoin è fissa. Nuovi bitcoin vengono creati in ogni nuovo blocco. I blocchi vengono creati in media ogni 10 minuti. Gli halving inoltre comportano il fatto che il tasso di crescita dell’offerta (nel contesto di Bitcoin di solito chiamato “inflazione monetaria”) sia a gradini e non regolare.
 
 
-  ![]()
+  ![](/images/bitcoin-quantità-circolante.png)
 
 
   L’offerta di bitcoin aumenta con il numero dei blocchi (linea blu) mentre l’inflazione monetaria (linea arancione) decresce in corrispondenza di ogni halving.
@@ -52,7 +52,9 @@ subtitle: >-
   L’ipotesi del modello è che la scarsità, misurata come rapporto SF, guidi direttamente il valore.
 
 
-  (grafico interagibile)
+
+
+  [Clicca qui per vedere il grafico live](https://digitalik.net/btc/#)
 
 
   Nel grafico sopra, il prezzo è sovrapposto alla linea del rapporto stock to flow. Possiamo vedere che il prezzo ha continuato a seguire il flusso di stock di Bitcoin nel tempo. La teoria quindi, suggerisce che possiamo proiettare dove il prezzo potrebbe andare osservando la linea prevista dal modello, che può essere calcolato poiché conosciamo il programma di mining futuro del BTC. I punti colorati mostrano il numero di giorni fino al prossimo evento di halving (che come abbiamo già detto rende il rapporto stock to flow più alto, quindi in teoria il prezzo dovrebbe aumentare) La linea stock to flow su questo grafico incorpora una media di 365 giorni nel modello per appianare i cambiamenti causati nel mercato dagli eventi di halving. 
