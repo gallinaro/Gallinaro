@@ -10,9 +10,6 @@ sections:
         is_primary: true
         label: Economia
         url: /finanza-post
-      - is_scrolly: false
-        is_primary: true
-        label: Altro
     component: intro.html
     content: Aspettarsi grosse ricompense per piccoli investimenti significa
       incoraggiare un comportamento stupido.
