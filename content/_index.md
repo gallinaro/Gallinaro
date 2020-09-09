@@ -8,7 +8,7 @@ sections:
         url: /bitcoin-post
       - is_scrolly: false
         is_primary: true
-        label: Economia
+        label: Altro
         url: /finanza-post
     component: intro.html
     content: Aspettarsi grosse ricompense per piccoli investimenti significa
