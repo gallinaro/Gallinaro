@@ -1,5 +1,5 @@
 ---
-title: Economia post
+title: Alts e news
 sections:     
   - type: spotlight
     content: ''
