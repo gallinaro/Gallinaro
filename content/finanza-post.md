@@ -4,7 +4,7 @@ sections:
   - type: spotlight
     content: ''
     actions: []
-    title: Articoli economia
+    title: Alts e crypto news
     subtitle: ''
     component: finanza-spotlight.html
 menu:
