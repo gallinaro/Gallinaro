@@ -9,7 +9,7 @@ sections:
     component: finanza-spotlight.html
 menu:
   main:
-    name: Economia
+    name: Alts e crypto news
     weight: 
 layout: home
 ---
