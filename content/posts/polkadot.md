@@ -111,6 +111,6 @@ excerpt: Polkadot è una blockchian innovativa che punta a superare quelli che
   sono i 2 principali limiti delle piattaforme attualmente disponibili, quindi
   scalabilità e della iper-specializzazione.
 post_button_label: Leggi
-date: 2020-09-12T17:18:40.153Z
+date: 2020-09-11T17:18:40.153Z
 layout: page
 ---
