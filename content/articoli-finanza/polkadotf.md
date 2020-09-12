@@ -1,7 +1,7 @@
 ---
 title: Polkadot
 subtitle: >-
- **Introduzione**
+  **Introduzione**
 
 
   Polkadot è una blockchian innovativa che punta a superare quelli che sono i 2 principali limiti delle piattaforme attualmente disponibili, quindi scalabilità e della iper-specializzazione. Per superare il limite della scalabilità Polkadot usa la tecnica dello sharding ovvero divide la blockchain in tanti frammenti che vengono coordinati da una blockchain centrale che il compito di mettere assieme tutti i pezzi e di conseguenza va a smistare la gravosità del compito in diverse parti, di conseguenza aumenta in maniera esponenziale il numero di operazione che può compiere. Per quanto riguarda la iper-specializzazione Polkadot consente l’interoperabilità di più blockchian in modo che più blockchian specializzate possano interagire e cooperare per creare un ecosistema estremamente vasto.
