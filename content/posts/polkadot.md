@@ -7,7 +7,7 @@ subtitle: >-
   Polkadot è una blockchain innovativa che punta a superare quelli che sono i 2 principali limiti delle piattaforme attualmente disponibili, cioé scalabilità e iper-specializzazione. Per superare il limite della scalabilità, Polkadot utilizza la tecnica dello sharding, ovvero divide la blockchain in tanti frammenti che vengono coordinati da una blockchain centrale con il compito di mettere assieme tutti i pezzi e di conseguenza va a smistare la gravosità del compito in diverse parti, aumentando in maniera esponenziale il numero di operazione che può compiere. Per quanto riguarda l’iper-specializzazione, Polkadot consente l’interoperabilità, più blockchain specializzate possano interagire e cooperare per creare un ecosistema estremamente vasto.
 
 
-  ![](/images/polkadot-ecositema.png)
+  ![](/images/polkadot-ecositemaa.png)
 
 
   **Struttura ed architettura**
@@ -34,7 +34,7 @@ subtitle: >-
   E’ la componente specifica del sistema Polkadot, sono delle vere e proprie blockchain sviluppate all’interno del sistema polkadot ed ognuna di esse ha il suo token. E’una blockchain a sé stante ed è deputata a fare qualcosa di specifico e particolare.
 
 
-  ![](/images/para-chian-polkadot.png)
+  ![](/images/apara-chian-polkadot.png)
 
 
   Ogni sviluppatore può creare la propria parachain utilizzando il framework Substrate ed essa poi si integrerà con le altre e alla blockchain esterne grazie alla relay chain. Per creare nuove parachain occorre vincolare dei Dot con l’operazione denominata Bonding, questo al fine di evitare la creazione di eccessive parachain superflue (l’operazione rende costoso avere una parachain). Una volta che si decide di ritirare una parachain si svincolano i token DOT
@@ -46,7 +46,7 @@ subtitle: >-
   Infine abbiamo i bridges, che consentono alla parachain di connettersi e comunicare con reti esterne come Ethereum o Bitcoin e permettono quindi di collegare il mondo Polkadot con le blockchain esterne, anch’esse sono delle blockchain con un token proprio (es Darwinia )
 
 
-  ![](/images/bridges-polkadot.png)
+  ![](/images/abridges-polkadot.png)
 
 
   **Consenso**
@@ -61,7 +61,7 @@ subtitle: >-
   Sono i nodi deputati a nominare i validatori. Il potere di nomina viene acquisito facendo staking del token Dot
 
 
-  ![](/images/nominators-polkadot.png)
+  ![](/images/anominators-polkadot.png)
 
 
   **Validators**
@@ -70,7 +70,7 @@ subtitle: >-
   Lo scopo dei validators è quello di andare a validare le transazioni ed i blocchi della blockchain. Anche i validatori dovranno essere token holder e dovranno fare staking in misura maggiore dei nominators.
 
 
-  ![](/images/validators-polkadot.png)
+  ![](/images/avalidators-polkadot.png)
 
 
   **Collators**
@@ -79,7 +79,7 @@ subtitle: >-
   Rappresentano coloro che devono recuperare tutte le transazioni dei vari shard, le elaborano e producono delle prove (proofs):queste vengono passate ai validators per la validazione stessa.
 
 
-  ![](/images/collators-polkadot.png)
+  ![](/images/acollators-polkadot.png)
 
 
   **Fishermen**
@@ -88,7 +88,7 @@ subtitle: >-
   Servono a monitorare la rete e a segnalare il cattivo comportamento ai validatori: la penitenza per il comportamento scorretto può arrivare anche allo slashing, cioé alla perdita dei DOT che vengono vincolati al noto affinchè questo possa compiere il suo dovere. Questo ruolo può essere svolto sia dai full node delle parachain che dai collators
 
 
-  ![](/images/fishermen-polkadot.png)
+  ![](/images/afishermen-polkadot.png)
 excerpt: Polkadot è una blockchain innovativa che punta a superare quelli che
   sono i due principali limiti delle piattaforme attualmente disponibili, quindi
   scalabilità e della iper-specializzazione.
