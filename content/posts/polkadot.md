@@ -22,7 +22,7 @@ subtitle: >-
   Il modulo più importante di tutti è la Relay chain, il cuore di Polkadot: è responsabile della sicurezza condivisa, del consenso e dell’interoperabilità cross-chain della rete.
 
 
-  ![](/images/relay-chain-polkadot.png)
+  ![](/images/arelay-chain-polkadot.png)
 
 
   Sulla relay chain circola il token proprietario di Polkadot, DOT. Il token DOT serve innanzitutto per la governance, gli holder del token sono incentivati a votare e/o proporre nuove modifiche per far evolvere l’ecosistema. Questo sistema permette a Polkadot di eseguire l’aggiornamento senza hard fork per integrare nuove funzionalità o correggere bug (es. diluizione della supply x 100). Il sistema quindi può aggiornarsi non appena saranno disponibili tecnologie migliori. Altro compito della relay chain è garantire la sicurezza, questo grazie ad un algoritmo di consenso proprietario (una sorta di proof of stake). Infine l’ultimo compito è quello di coordinare le attività che permettono l’interoperabilità delle diverse chain, che significa sia coordinare le blockchain native di polkadot (parachain) o esterne come quelle di Ethereum.
