@@ -1,15 +1,15 @@
 ---
-title: Alts
+title: Cripto e Defi
 sections:     
   - type: spotlight
     content: ''
     actions: []
-    title: Alts e crypto
+    title: Cripto e Defi
     subtitle: ''
     component: finanza-spotlight.html
 menu:
   main:
-    name: Alts e crypto
+    name: Cripto e Defi
     weight: 
 layout: home
 ---
