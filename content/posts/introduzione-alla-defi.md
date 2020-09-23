@@ -83,6 +83,10 @@ subtitle: >-
   * Anonimato o mancanza di squadra nonostante la DeFi sia interamente costruita sul presupposto di un’infrastruttura decentralizzata, praticamente tutte le piattaforme migliori vantano un team estremamente forte e competente
 
   * Inattività su GitHUb, verifica se un team ha mantenuto le sue promesse direttamente su GitHub, la maggior parte dei progetti DeFi è open source, tutte le modifiche ed i cambiamenti sono resi pubblici dal momento in cui si verificano.
+excerpt: DeFi è l’abbreviazione di “finanza decentralizzata”, un termine
+  generico per una varietà di applicazioni finanziarie in criptovaluta o
+  blockchain orientate ad eliminare gli intermediari finanziari.
+post_button_label: Leggi
 date: 2020-09-23T08:07:21.448Z
 layout: page
 ---
