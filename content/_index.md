@@ -8,7 +8,7 @@ sections:
         url: /bitcoin-post
       - is_scrolly: false
         is_primary: true
-        label: Alts e cripto
+        label: Cripto e DeFi
         url: /finanza-post
     component: intro.html
     content: Aspettarsi grosse ricompense per piccoli investimenti significa
