@@ -1,7 +1,7 @@
 ---
 title: Bitcoin post
 sections:
-- actions:
+  - actions:
       - is_scrolly: false
         is_primary: true
         label: Home
