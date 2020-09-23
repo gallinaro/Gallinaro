@@ -16,10 +16,7 @@ subtitle: >-
   **Prestiti**
 
 
-  Nel settore dei prestiti, la DeFi consente a qualsiasi individuo di contrarre o fornire un prestito senza l’approvazione di terzi. La stragrande maggioranza dei prodotti di prestito utilizza criptovalute popolari come Ether o Bitcoin per garantire prestiti. Grazie all’avvento degli smart-contract, i margini di mantenimento ed i tassi di interesse possono essere programmati direttamente in un contratto di prestito con liquidazioni che avvengono automaticamente nel caso in cui il saldo del conto scenda al di sotto di un determinato rapporto di garanzia. L’interesse relativo guadagnato dalla fornitura di diverse criptovalute varia in relazione all’asset e alla piattaforma utilizzata.
-
-
-  Alcuni progetti interessanti sono:
+  Nel settore dei prestiti, la DeFi consente a qualsiasi individuo di contrarre o fornire un prestito senza l’approvazione di terzi. La stragrande maggioranza dei prodotti di prestito utilizza criptovalute popolari come Ether o Bitcoin per garantire prestiti. Grazie all’avvento degli smart-contract, i margini di mantenimento ed i tassi di interesse possono essere programmati direttamente in un contratto di prestito con liquidazioni che avvengono automaticamente nel caso in cui il saldo del conto scenda al di sotto di un determinato rapporto di garanzia. L’interesse relativo guadagnato dalla fornitura di diverse criptovalute varia in relazione all’asset e alla piattaforma utilizzata. Alcuni progetti interessanti sono:
 
 
   * Aave
@@ -36,10 +33,7 @@ subtitle: >-
   **Dex**
 
 
-  Gli scambi decentralizzati consentono agli utenti di scambiare le proprie attività senza dover trasferire la custodia della garanzia sottostante. I Dex o exchange decentralizzati, mirano a fornire un trading affidabile e interoperabile su un’ampia gamma di strumenti.
-
-
-  Alcuni progetti: 
+  Gli scambi decentralizzati consentono agli utenti di scambiare le proprie attività senza dover trasferire la custodia della garanzia sottostante. I Dex o exchange decentralizzati, mirano a fornire un trading affidabile e interoperabile su un’ampia gamma di strumenti. Alcuni progetti: 
 
 
   * Uniswap
@@ -52,10 +46,7 @@ subtitle: >-
   **Derivati**
 
 
-  Nella finanza tradizionale, un derivato rappresenta un contratto in cui il valore è derivato da un accordo basato sulla performance di un'attività sottostante. Esistono quattro tipi principali di contratti derivati: futures, forward, opzioni, swap Con l'avvento della DeFi, gli investitori beneficiano di regolamenti aperti, trasparenti e automatizzati per i contratti derivati.
-
-
-  Progetti interessanti sono 
+  Nella finanza tradizionale, un derivato rappresenta un contratto in cui il valore è derivato da un accordo basato sulla performance di un'attività sottostante. Esistono quattro tipi principali di contratti derivati: futures, forward, opzioni, swap Con l'avvento della DeFi, gli investitori beneficiano di regolamenti aperti, trasparenti e automatizzati per i contratti derivati. Progetti interessanti sono 
 
 
   * Augur
@@ -70,10 +61,7 @@ subtitle: >-
   **Wallet**
 
 
-  Sono dei gateway per interagire con i prodotti DeFi. 
-
-
-  Alcuni tra i più famosi sono 
+  Sono dei gateway per interagire con i prodotti DeFi.  Alcuni tra i più famosi sono 
 
 
   * Metamask 
