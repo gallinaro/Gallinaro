@@ -1,6 +1,11 @@
 ---
 title: Bitcoin post
 sections:
+- actions:
+      - is_scrolly: false
+        is_primary: true
+        label: Home
+        url: /_index
   - type: spotlight
     content: ''
     actions: []
