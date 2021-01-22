@@ -1,5 +1,5 @@
 ---
-title: "Amazon"
+title: ""
 subtitle: >-
   Passando da questo link Amazon mi corrisponderà una piccola percentuale dei
   tuoi acquisti, per te non cambierà nulla ma per il sito è un grande aiuto 
