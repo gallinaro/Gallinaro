@@ -214,7 +214,7 @@ excerpt: >-
   unidirezionale, viene creata la chiave pubblica. Sulla chiave pubblica viene
   utilizzata una funzione di hash crittografica unidirezionale per creare
   l’indirizzo bitcoin.
-img_path: ''
+img_path: 'https://raw.githubusercontent.com/gallinaro/gallinaro/master/static/images/logo_amazon.png'
 post_button_label: Leggi
 date: 2020-11-28T17:00:16.980Z
 layout: page
