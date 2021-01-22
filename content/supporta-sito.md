@@ -6,7 +6,7 @@ sections:
     actions: []
     title: Supporta il sito
     subtitle: ''
-    component: finanza-spotlight.html
+    component: supportami-spotlight.html
   - type: features
     title: Andamenti 
     component: features.html
