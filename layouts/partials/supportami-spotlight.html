@@ -7,7 +7,7 @@
         </header>
         {{ range $post := ((.Site.GetPage "section" "/articoli-supportami").Pages).ByDate.Reverse }}
             <section class="spotlight">
-              <!--  <span class="image"><img src="{{ $post.Params.img_path | relURL }}" alt="" /></span> -->
+              <!-- questo cancella -->  <span class="image"><img src="{{ $post.Params.img_path | relURL }}" alt="" /></span> 
                 <div class="content">
                     <header>
                         <h3>{{ $post.Title }}</h3>
