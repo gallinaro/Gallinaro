@@ -1,5 +1,5 @@
 ---
-title: Supporta il sito comprando su Amazon
+title: "Amazon "
 subtitle: >+
   
 
